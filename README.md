@@ -3,7 +3,7 @@
 <!-- ===================================================== -->
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=HARISHRAM%20GANDHIRAM&fontAlign=50&fontAlignY=40&color=0:0f0c29,50:302b63,100:00F5FF&fontColor=ffffff&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f0c29,50:302b63,100:00F5FF&height=180&section=header&text=Harishram%20Gandhiram&fontSize=42&fontAlign=50&fontAlignY=50&fontColor=ffffff&animation=fadeIn"/>
 </p>
 
 <p align="center">
@@ -12,7 +12,6 @@
 
 ---
 
-# 🧊 GLASS PROFILE
 
 ```yaml
 Name: Harishram Gandhiram
@@ -24,7 +23,6 @@ Core Strength: System Architecture • Data Intelligence • Optimization
 
 ---
 
-# 🤖 ABOUT (AI OPTIMIZED)
 
 • Engineer building **data-driven & AI-powered systems**  
 • Experience across **EV ecosystem, analytics & automation**  
